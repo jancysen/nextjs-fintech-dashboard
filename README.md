@@ -1,20 +1,24 @@
 # Next.js Fintech Dashboard
 
-A mini Next.js project demonstrating core rendering concepts.
+A high-performance web dashboard built using Next.js and React, focused on clean UI,
+server-side rendering, and scalable component architecture.
 
-## Features
-- File-based routing using App Router
-- Server-Side Rendering (SSR)
-- Static Site Generation (SSG)
-- Simple dashboard-style UI
+## 🚀 Features
+- Server-Side Rendering (SSR) and Static Site Generation (SSG)
+- Reusable React components with clean layout structure
+- Responsive UI using Tailwind CSS
+- Optimized loading and smooth navigation
 
-## Tech Stack
-- Next.js
-- React
+## 🛠 Tech Stack
+- Next.js (App Router)
+- React.js
 - TypeScript
 - Tailwind CSS
 
-## Pages
-- `/` – Home
-- `/dashboard` – SSR page
-- `/features` – SSG page
+## 📸 Screenshots
+(Add screenshots here)
+
+## 📂 Getting Started
+```bash
+npm install
+npm run dev
