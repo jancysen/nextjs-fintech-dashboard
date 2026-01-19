@@ -15,10 +15,5 @@ server-side rendering, and scalable component architecture.
 - TypeScript
 - Tailwind CSS
 
-## 📸 Screenshots
-(Add screenshots here)
 
-## 📂 Getting Started
-```bash
-npm install
-npm run dev
+
